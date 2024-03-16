@@ -7,5 +7,9 @@
     "repository": "device/google/pantah-kernel",
     "target_path": "device/google/pantah-kernel",
     "remote": "aosp-pantah"
+  },
+  {
+    "repository"  : "packages_apps_PixelParts",
+    "target_path" : "packages/apps/PixelParts"
   }
 ]

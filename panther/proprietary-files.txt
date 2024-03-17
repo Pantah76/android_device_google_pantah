@@ -17,6 +17,9 @@ product/etc/firmware/music_detector.sound_model_tflite
 product/etc/permissions/androidx.camera.extensions.impl.xml
 product/priv-app/PixelCameraServicesP10/PixelCameraServicesP10.apk;PRESIGNED
 
+# Dreamliner
+product/etc/sysconfig/dreamliner.xml
+
 # Felica
 product/etc/felica/common.cfg
 product/etc/felica/mfm.cfg

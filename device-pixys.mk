@@ -21,6 +21,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     EuiccSupportPixelOverlay
 
+# Basic Call Recording
+$(call inherit-product-if-exists, vendor/bcr/bcr.mk)
+
 # PixelParts
 include packages/apps/PixelParts/device.mk
 
